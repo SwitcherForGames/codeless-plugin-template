@@ -1,0 +1,17 @@
+# Required items.
+game: "TODO"
+api: TODO
+steamID: TODO
+uid: TODO
+author: TODO
+packageName: TODO
+features:
+  - TODO
+
+# Optional items.
+graphicsConfig: TODO
+keymapConfig: TODO
+savesFolder: TODO
+gameDirectory: "TODO"
+verificationPaths:
+  - TODO
